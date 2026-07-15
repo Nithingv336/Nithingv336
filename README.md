@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a bike rider
+I am Currenty Learning Python
+
 
 
 ## 🌐 Socials:
